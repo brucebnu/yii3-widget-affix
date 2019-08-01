@@ -1,15 +1,15 @@
 {
     "name": "brucebnu/yii3-widget-affix",
     "description": "A scrollspy and affixed enhanced navigation to highlight page sections (sub repo split from yii2 and yii3 widgets",
-    "type": "library",
-    "license": "BSD 3-Clause",
+    "type": "yii2-widget",
+    "keywords": ["yii2","widget","Affix","Bootstrap","挂件","文档"],
+    "license": "MIT",
     "authors": [
         {
             "name": "Bruce Bnu",
             "email": "bruce.bnu@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1"
     },
